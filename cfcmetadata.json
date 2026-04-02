@@ -1,7 +1,7 @@
 {
     "promotionRoutes": {
         "SUN": "SEC",
-        "MAC": "B10",
+        "MAC": "B10", 
         "COL": "ACC",
         "CUSA": "B12",
         "MWC": "PAC",
